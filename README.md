@@ -1,24 +1,64 @@
-# README
+# Greeting Backend Selector API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> A Rails API APP for serving random messages in JSON.
 
-Things you may want to cover:
+- Link to Frontend React App: [Greeting Backend Selector](https://github.com/hsztan/Hello-React-Front-End)
 
-* Ruby version
+## Getting Started
 
-* System dependencies
+To get a local copy of the project, follow these steps: 
+1. Open the terminal and navigate to the folder where you would like to put these files.
+2. Type the following commands into the terminal: 
+ ```
+ git clone https://github.com/hsztan/Hello-Rails-Back-End.git
+ ```
+ ```
+ cd hello-rails-back-end
+ ```
 
-* Configuration
+```
+bundle install
+```
+```
+'npm install' or 'yarn install'
+```
+```
+rails db:create
+```
+```
+rails db:migrate
+```
+```
+rails db:seed
+```
 
-* Database creation
+```
+'rails s' to start the server locally
+```
 
-* Database initialization
 
-* How to run the test suite
+## Author
 
-* Services (job queues, cache servers, search engines, etc.)
+👤 **Henry Sztanski**
 
-* Deployment instructions
+- GitHub: [@hsztan](https://github.com/hsztan)
+- Twitter: [@hsztanski](https://github.com/hsztan)
+- LinkedIn: [@henry-nawrocki](https://linkedin.com/in/henry-nawrocki)
 
-* ...
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/hsztan/Hello-Rails-React/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to the Rails community for the inspiration and guidance.
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
