@@ -2,6 +2,8 @@
 
 > A Rails API APP for serving random messages in JSON.
 
+- Link to Frontend React App: [Greeting Backend Selector](https://github.com/hsztan/Hello-React-Front-End)
+
 ## Getting Started
 
 To get a local copy of the project, follow these steps: 
